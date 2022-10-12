@@ -20,5 +20,5 @@ public abstract class Operation {
         this.value2 = value2;
     }
 
-    protected abstract double getResult();
+    public abstract double getResult();
 }
